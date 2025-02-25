@@ -3,7 +3,7 @@
 This project is an AI-powered Snake game built using Python and PyTorch. The AI agent is trained using reinforcement learning to play the Snake game autonomously.
 
 ## Folder Structure
-├── pycache/ ├── .gitignore ├── agent.py ├── app.py ├── arial.ttf ├── bggame.png ├── eating.mp3 ├── game.py ├── gameover.mp3 ├── helper.py ├── model/ │ └── model.pth ├── model.py ├── README.md ├── snake_human.py └── x.png
+├── .gitignore ├── agent.py ├── app.py ├── arial.ttf ├── eating.mp3 ├── game.py ├── gameover.mp3 ├── helper.py ├── model.pth ├── model.py ├── README.md ├── x.png
 
 
 
